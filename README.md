@@ -13,12 +13,11 @@ Soy una desarrolladora front-end de CDMX apasionada por crear interfaces web atr
 
 🎨 Me encanta cuidar los detalles visuales  
 🔍 Me enfoco en rendimiento, accesibilidad y SEO  
-📈 También tengo experiencia en marketing digital y análisis de datos
+📈 También tengo experiencia en marketing digital 
 
 ---
 
 ### 🛠️ Tecnologías & Herramientas
-
 #### Front-End
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -26,28 +25,32 @@ Soy una desarrolladora front-end de CDMX apasionada por crear interfaces web atr
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Flexbox](https://img.shields.io/badge/Flexbox-000000?style=flat&logo=css3&logoColor=white)
 
-#### Frameworks / CMS
+####  Frameworks / CMS
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-#### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+#### Herramientas de diseño y desarrollo
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+#### SEO & Análisis
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=flat&logo=googletagmanager&logoColor=white)
 
+#### Gestión y Organización
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-000?style=flat&logo=monday&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Tech%20Stack-8c52ff?style=flat&logo=stackshare&logoColor=white)
+
 ---
 
-### 💼 Clientes
-
-Jessica ha trabajado con diversos clientes ofreciendo soluciones tecnológicas personalizadas: sitios web, aplicaciones y sistemas. Además, ha brindado soporte técnico, gestionado cotizaciones y participado activamente en la administración de proyectos, asegurando eficiencia y continuidad en los servicios.
-
----
 
 ### 🐾 Un poco más sobre mí
 
