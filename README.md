@@ -47,7 +47,7 @@ Soy una desarrolladora front-end de CDMX apasionada por crear interfaces web atr
 #### Gestión y Organización
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-000?style=flat&logo=monday&logoColor=white)
-![Stack](https://img.shields.io/badge/Stack-Tech%20Stack-8c52ff?style=flat&logo=stackshare&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 ---
 
