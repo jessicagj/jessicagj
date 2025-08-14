@@ -14,7 +14,7 @@ Soy una desarrolladora front-end de CDMX apasionada por crear interfaces web atr
 🎨 Me encanta cuidar los detalles visuales  
 🔍 Me enfoco en rendimiento, accesibilidad y SEO  
 📈 También tengo experiencia en marketing digital 
-
+<a href="https://jessicagonzalezj.com/"> Visita mi portafolio 🌟 </a> 
 ---
 
 ### 🛠️ Tecnologías & Herramientas
